@@ -1,0 +1,9 @@
+.envv
+*.env
+venv
+env
+venv/
+.idea
+*.idea
+*.db
+*.sqlite3
